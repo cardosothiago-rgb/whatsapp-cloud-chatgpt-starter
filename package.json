@@ -1,0 +1,10 @@
+{
+  "name": "whatsapp-cloud-chatgpt-starter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.57.0"
+  }
+}
